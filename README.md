@@ -4,7 +4,7 @@
 
 I build data pipelines people can trust. For 5+ years I've turned messy source systems (CRMs, billing platforms, state agency databases) into clean, modeled, validated data that dashboards and decisions run on. Today I'm a Data Engineer Specialist at the Colorado Department of Human Services; before that, four years engineering a customer, billing and support data warehouse for GoDaddy. My favorite part of the job: pinning down what a metric *actually* means before building the pipeline that feeds it.
 
-[Portfolio](https://vamshi-dev99.github.io/Sathya-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/vamshi-m-37711444a/) · [Resume (PDF)](https://vamshi-dev99.github.io/Sathya-Portfolio/Sathya_Mittakori_Resume.pdf) · [sathyavamshi.ed@gmail.com](mailto:sathyavamshi.ed@gmail.com)
+[Portfolio](https://vamshi-dev99.github.io/Sathya-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/vamshi-m1999/) · [Resume (PDF)](https://vamshi-dev99.github.io/Sathya-Portfolio/Sathya_Mittakori_Resume.pdf) · [sathyavamshi.ed@gmail.com](mailto:sathyavamshi.ed@gmail.com)
 
 ## Highlights
 
